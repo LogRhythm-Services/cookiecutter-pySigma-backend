@@ -1,5 +1,5 @@
 # pySigma Backend Cookiecutter Template
-[![Test](https://github.com/SigmaHQ/cookiecutter-pySigma-backend/actions/workflows/test.yml/badge.svg)](https://github.com/SigmaHQ/cookiecutter-pySigma-backend/actions/workflows/test.yml)
+[![Test](https://github.com/LogRhythm-Services/cookiecutter-pySigma-backend/actions/workflows/test.yml/badge.svg)](https://github.com/SigmaHQ/cookiecutter-pySigma-backend/actions/workflows/test.yml)
 
 [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for a
 [pySigma](https://github.com/SigmaHQ/pySigma) [backend](https://sigmahq-pysigma.readthedocs.io/en/latest/Backends.html).
@@ -24,10 +24,10 @@ python3 -m pip install --user cookiecutter
 This cookiecutter uses [Poetry](https://python-poetry.org) for installation of current dependencies. Install it as
 described [here](https://python-poetry.org/docs/#installation).
 
-Generate a pySigma backend project from this template with:
+Generate a local pySigma backend project from this template with:
 
 ```
-cookiecutter https://github.com/SigmaHQ/cookiecutter-pySigma-backend.git
+cookiecutter https://github.com/LogRhythm-Services/cookiecutter-pySigma-backend.git
 ```
 
 ## Developing a Backend
@@ -63,7 +63,7 @@ terminal that runs Cookiecutter:
 https://gist.github.com/<your user name>/<the required identifier (hex id)>
 ```
 
-## Publishing a Backend
+## Publishing a Backend once tetsing is completed!!
 
 Generally there are two options:
 
